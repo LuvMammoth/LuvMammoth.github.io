@@ -139,20 +139,19 @@ h2{
 	color: antiquewhite
 }
 p3{
-	z-index: 2;
 	position: absolute;
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   top: 750px;
   color: whitesmoke;
-  
+  margin-right: 70px;
   font-style: italic;
 }
 .video{
 	position: relative;
 	margin-top: 200px;
 	
-	margin-right: 100px;
+	margin-right: 500px;
 	float: right;
 }
 .textbox2 {
