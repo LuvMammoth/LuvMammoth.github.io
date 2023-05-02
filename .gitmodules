@@ -1,0 +1,3 @@
+[submodule "LuvMammoth.io"]
+	path = LuvMammoth.io
+	url = git@github.com:LuvMammoth/LuvMammoth.io.git
